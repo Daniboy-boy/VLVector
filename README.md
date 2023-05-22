@@ -17,4 +17,4 @@ vl_vector.h - declaration and implementations of the vl_vector - a generic vecto
 
 vl_string - implementation of string using vl_vector.
 
-project_details - the exercise pdf from the course, for those who really care (;
+project_details - the exercise pdf from the course.
